@@ -1,6 +1,6 @@
 
 // Favorite plist path
-
+// Add file 
 #define kFavoritePath  @"~/Library/Caches/Favorite.plist"
 
 /*
